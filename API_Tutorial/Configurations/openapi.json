@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": ".NET 7.0 WebAPI",
+    "Version": "v1",
+    "Description": "언제가 써먹을 Framework.",
+    "ContactName": "bluebird",
+    "ContactEmail": "",
+    "ContactUrl": "",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "CorsSettings": {
+    "Angular": "http://localhost:4200",
+    "Blazor1": "https://localhost:7280;",
+    "Blazor": "https://localhost:7280;https://tufclient20230303122015.azurewebsites.net",
+    "React": "http://localhost:3000"
+  }
+}
